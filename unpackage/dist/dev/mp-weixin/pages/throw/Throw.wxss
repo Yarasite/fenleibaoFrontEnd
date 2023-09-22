@@ -1,0 +1,37 @@
+
+#container {
+	text-align: center;
+}
+.select{
+	padding-top: 150rpx;
+}
+.picker{
+	display: inline-block;
+	background-color: #fff;
+	width: 100%;
+	border: 1rpx solid rgb(203, 206, 197);
+	line-height: 40rpx;
+	border-radius: 10rpx 10rpx;
+}
+#type {
+	display: block;
+	width: 40%;
+	margin-left: 30%;
+	height: 30rpx;
+	margin-top: 10rpx;
+	border-color: rgb(203, 206, 197);
+	color: rgb(151, 136, 151);
+	font-size: 16rpx;
+}
+.button {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+.confirm {
+	background-color: rgb(191, 191, 61);
+}
+.cancel {
+	background-color: rgb(64, 149, 229);
+}
+

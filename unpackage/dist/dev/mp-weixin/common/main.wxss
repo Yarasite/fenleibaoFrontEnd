@@ -1,0 +1,25 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*每个页面公共css */
+page {
+		 /* rgba会导致透明度叠加 */
+	    /* background-color: rgba(204,247,83,0.5); */
+		background-color: #e5fbc1;
+		/* opacity: .5; */
+}
+  
+

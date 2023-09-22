@@ -1,0 +1,49 @@
+{
+  "pages": [
+    "pages/loginregister/loginregister/loginregister",
+    "pages/tabbar/tabbar-1/tabbar-1",
+    "pages/tabbar/tabbar-5/tabbar-5",
+    "pages/loginregister/login/login",
+    "pages/loginregister/register/register",
+    "pages/throw/Throw",
+    "pages/tabbar/tabbar-5/setting/setting",
+    "pages/tabbar/tabbar-5/HelpAndFeedBack/HelpAndFeedBack",
+    "pages/throw/SuccessfulThrow/SuccessfulThrow",
+    "pages/tabbar/tabbar-5/setting/AccountSecurity/AccountSecurity",
+    "pages/tabbar/tabbar-5/ExchangeCoin/ExchangeCoin",
+    "pages/tabbar/tabbar-5/AccountInformation/AccountInformation",
+    "pages/CarPage/CarPage",
+    "pages/PlantPage/PlantPage",
+    "pages/CarPage/SuccessfulLoad/SuccessfulLoad",
+    "pages/PlantPage/SucccessfulReceive/SucccessfulReceive",
+    "pages/loginregister/register/PlantRegister/PlantRegister"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "borderStyle": "black",
+    "backgroundColor": "#333",
+    "color": "#8F8F94",
+    "selectedColor": "#f33e54",
+    "list": [
+      {
+        "pagePath": "pages/tabbar/tabbar-1/tabbar-1",
+        "iconPath": "static/img/tabbar/home.png",
+        "selectedIconPath": "static/img/tabbar/homeactive.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/tabbar/tabbar-5/tabbar-5",
+        "iconPath": "static/img/tabbar/me.png",
+        "selectedIconPath": "static/img/tabbar/meactive.png",
+        "text": "我"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

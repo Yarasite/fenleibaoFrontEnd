@@ -1,0 +1,32 @@
+.content{
+		margin-top: 300upx;
+}
+
+.text {
+	/* text-align: center; */
+	margin-top: 100upx;
+	background-color: #81b337;
+	min-height: 300upx;
+	padding-left: 20upx;
+	color: #fff;
+	font-size: 32upx;
+	font-weight: 600;
+	line-height: 50upx;
+}
+
+.button1 {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	
+}
+
+.again {
+	background-color: rgb(191, 191, 61);
+	color: #fff;
+}
+
+.back {
+	background-color: rgb(64, 149, 229);
+	color: #fff;
+}

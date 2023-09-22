@@ -1,0 +1,27 @@
+
+.box {
+	padding-top: 100rpx;
+}
+.box > input {
+	display: inline-block;
+	width: 40%;
+	height: 40rpx;
+	margin-top: 15rpx;
+	line-height: 40rpx;
+	border-radius: 10rpx 10rpx;
+	border: 1rpx solid rgb(203, 206, 197);
+	color: rgb(151, 136, 151);
+	font-size: 16rpx;
+	background-color: #fff;
+	text-align: left;
+	text-indent: 10rpx;
+}
+.box > ._span {
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 15rpx;
+	height: 40rpx;
+	line-height: 40rpx;
+	margin-left: 2rpx;
+}
+

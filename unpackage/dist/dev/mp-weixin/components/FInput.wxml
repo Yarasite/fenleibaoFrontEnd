@@ -1,0 +1,1 @@
+<view class="box _div"><view class="_h4">{{title}}</view><input type="digit" placeholder="{{placeholder}}" data-event-opts="{{[['input',[['inputFn',['$event']]]]]}}" bindinput="__e"/><label class="_span">{{unit}}</label></view>

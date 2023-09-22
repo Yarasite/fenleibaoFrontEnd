@@ -1,0 +1,55 @@
+.content{
+		margin-top: 300rpx;
+}
+
+.text {
+	/* text-align: center; */
+	margin-top: 100rpx;
+	background-color: #81b337;
+	min-height: 300rpx;
+	padding-left: 20rpx;
+	color: #fff;
+	font-size: 32rpx;
+	font-weight: 600;
+	line-height: 50rpx;
+}
+
+.button1 {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	
+}
+
+.again {
+	background-color: rgb(191, 191, 61);
+	color: #fff;
+}
+
+.back {
+	background-color: rgb(64, 149, 229);
+	color: #fff;
+}
+
+#content {
+	text-align: center;
+}
+.text {
+  margin-top: 20vh; /* 上边距设为20%视窗高度，使文本垂直居中 */
+}
+.button1 {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+.again,
+.back {
+  color: #1b1b1b; /* 设置按钮文字颜色为黑色 */
+}
+.again {
+	background-color: rgb(191, 191, 61);
+}
+.back {
+	background-color: rgb(64, 149, 229);
+}
+

@@ -1,0 +1,57 @@
+
+.title {
+	background-color: rgba(255, 0, 0, 0.3);
+	/* 红色，不透明度为50% */
+	color: rgba(81, 179, 37, 1);
+	/* 绿色，不透明度为80% */
+	/* 	  border: 1px solid black; */
+	padding: 10rpx;
+	font-weight: bold;
+	font-size: 50rpx;
+}
+.tip {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	        transform: translate(-50%, -50%);
+	background-color: #66b2ff;
+	padding: 10px;
+}
+.content {
+	text-align: center;
+	height: 400rpx;
+	margin-top: 70rpx;
+}
+.tree {
+	display: flex;
+	justify-content: center;
+	/* 水平居中 */
+	align-items: center;
+	/* 垂直居中 */
+	margin-top: 100rpx;
+}
+.tree ._img {
+	width: 600rpx;
+	/* 限制图片宽度 */
+	height: 900rpx;
+	/* 限制图片高度 */
+}
+.lrbutton {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.lrbutton1 {
+	background-color: rgba(129, 179, 55, 1);
+	color: rgb(255, 255, 255, 1);
+	border: none;
+	margin-right: 10rpx;
+	/* 添加间距 */
+}
+.lrbutton2 {
+	background-color: rgba(233, 157, 66, 1);
+	color: rgb(255, 255, 255, 1);
+	border: none;
+}
+

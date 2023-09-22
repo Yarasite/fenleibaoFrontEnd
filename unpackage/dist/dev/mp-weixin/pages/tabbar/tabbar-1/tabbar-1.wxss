@@ -1,0 +1,39 @@
+
+.content {
+	text-align: center;
+	height: 400rpx;
+	margin-top: 0rpx;
+}
+.tip {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	        transform: translate(-50%, -50%);
+	background-color: #66b2ff;
+	padding: 10px;
+}
+.tree {
+	display: flex;
+	justify-content: center;
+	/* 水平居中 */
+	align-items: center;
+	/* 垂直居中 */
+	margin-top: 100rpx;
+}
+.tree ._img {
+	width: 600rpx;
+	/* 限制图片宽度 */
+	height: 900rpx;
+	/* 限制图片高度 */
+}
+.button {
+	position: absolute;
+	width: 40%;
+	bottom: 10%;
+	left: 30%;
+}
+.button button {
+	background-color: rgb(191, 191, 61);
+}
+

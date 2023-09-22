@@ -1,0 +1,12 @@
+
+.content {
+	text-align: center;
+	height: 400rpx;
+	margin-top: 0rpx;
+}
+.button button{
+	background-color: rgba(86,119,34, 0.7);
+	color: rgba(0, 0, 0, 1);
+	border: none;
+}
+
